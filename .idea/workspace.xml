@@ -2,8 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5839a152-3f04-4293-a21c-ab9ad0c00a9a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/flexslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/memenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/BreeSerif-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Lato-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Lora-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Muli-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Philosopher-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/abt-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/abt-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/abt-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bnr-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bnr-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bnr-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/c-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/c-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/c-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cart-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cart-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cart-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/crossword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/p-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/p-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/p-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/p-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/p-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/p-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/p-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/p-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pr-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pr-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/s-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/s-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/s-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/s-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/imagezoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-1.11.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.easydropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.flexslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/memenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/responsiveslides.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/simpleCart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,10 +75,15 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="11" selection-start-column="11" selection-end-column="11" />
+            <state relative-caret-position="771">
+              <caret line="485" column="7" selection-start-line="485" selection-start-column="7" selection-end-line="485" selection-end-column="7" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
@@ -91,6 +151,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -113,7 +178,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523415446586</updated>
-      <workItem from="1523415448460" duration="239000" />
+      <workItem from="1523415448460" duration="409000" />
     </task>
     <task id="LOCAL-00001" summary="delete">
       <created>1523415573061</created>
@@ -126,7 +191,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239000" />
+    <option name="totallyTimeSpent" value="409000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -186,10 +251,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        <state relative-caret-position="771">
+          <caret line="485" column="7" selection-start-line="485" selection-start-column="7" selection-end-line="485" selection-end-column="7" />
         </state>
       </provider>
     </entry>
